@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey, I'm Ava 👋
 
-<!--
-**avar777/avar777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent CS grad from Virginia Tech. Got into cybersecurity after taking a cyberwarfare class in Running Start.
 
-Here are some ideas to get you started:
+### What I'm up to
+- Studying for Security+ cert
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects I've built
+- **[Security Log Analyzer](https://avar777.github.io/Security-Log-Analyzer/)** - Detects attack patterns like SQL injection and brute force attempts. Built this to practice log analysis skills that security analysts use.
+- **[Cailly](https://calily-api.vercel.app/)** - AI-powered health tracker I built for people with autoimmune conditions. Full-stack with Node.js, React, MongoDB.
+
+### Tech I work with
+JavaScript • React • Node.js • MongoDB • Python • HTML/CSS
+
+### Let's connect
+[LinkedIn](https://www.linkedin.com/in/ava-raper-a207a7220) • avar@vt.edu
+
+---
+*Currently looking for cybersecurity roles.*
